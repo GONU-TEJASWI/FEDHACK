@@ -3,4 +3,5 @@ dist
 build
 .vite
 .cache
-
+.idea
+.DS_Store
